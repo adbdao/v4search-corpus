@@ -1,0 +1,16 @@
+.gitignore
+
+npm
+node_modules
+ksana-corpus-lib
+ksanalibindex.js
+package-lock.json
+desktop.ini
+
+*.zip
+*.bak
+
+*.db
+
+
+
